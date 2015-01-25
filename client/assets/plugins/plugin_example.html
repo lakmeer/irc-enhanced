@@ -7,9 +7,7 @@
     </div>
 </div>
 
-
 <script>
-
 
     (function () {
         var view = Backbone.View.extend({
@@ -25,8 +23,6 @@
                 });
             }
         });
-
-
 
         var applet = Backbone.Model.extend({
             initialize: function () {
@@ -48,7 +44,6 @@
                 });
 
             },
-
 
             startGraphing: function() {
                 var that = this;
@@ -90,7 +85,6 @@
                 input.on('command:graph', function (event) { console.log(event); });
             }
         });
-
 
         kiwi.components.Applet.register('canvas', applet);
         kiwi.components.Applet.loadOnce('canvas');

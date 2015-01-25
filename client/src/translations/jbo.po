@@ -18,27 +18,27 @@ msgstr ""
 
 #: client/assets/src/applets/chanlist.js
 msgid "client_applets_chanlist_channelname"
-msgstr "te tivni"
+msgstr "Channel Name"
 
 #: 
 msgid "client_applets_chanlist_users"
-msgstr "lo pilno"
+msgstr "Users"
 
 #: 
 msgid "client_applets_chanlist_topic"
-msgstr "se casnu"
+msgstr "Topic"
 
 #: 
 msgid "client_applets_chanlist_channellist"
-msgstr "lo te tivni"
+msgstr "Channel List"
 
 #: client/assets/src/applets/scripteditor.js
 msgid "client_applets_scripteditor_save"
-msgstr "ralte"
+msgstr "Save"
 
 #: 
 msgid "client_applets_scripteditor_error"
-msgstr ".ue la .skript. srera zo'u: %s"
+msgstr "Script error. %s"
 
 #: 
 msgid "client_applets_scripteditor_saved"

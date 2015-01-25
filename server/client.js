@@ -176,3 +176,4 @@ function websocketDisconnect() {
 function websocketError() {
     this.dispose();
 }
+
